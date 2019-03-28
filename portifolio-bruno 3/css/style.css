@@ -1,0 +1,341 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   font-family: 'Janda Manatee Solid', 'Londrina Solid' ,cursive ;
+   
+}
+
+html, body, header {
+    height: 100%;
+}
+
+nav > ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: #9720f2;
+    font-size: 1.3em;
+    height: 4.5em;
+    color: #fff;
+    align-items: center; 
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+nav a:hover{
+    background: #fff;
+    color: #9720f2;
+    padding: 10px;
+}
+ #logoarea{
+    text-align: center;
+    display: block;
+    width: 100%;
+    background: url("../img/3-certo.jpeg.png") no-repeat center;
+    background-size: cover;
+    height: 90%;
+}
+
+#logoarea img {
+    margin: 15%;
+}
+#historia{
+    width: 100%;
+    background-color: #ff9933;
+}
+#historia > h2 {
+    color: #fff;
+    background-color: #9720f2;
+    text-align: center;
+    padding: 1em;
+    width: auto;
+    margin-top: 2%;
+}
+.conteudo_historia{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.projeto_central{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.projeto{
+    width: 36%;
+    height: 49em;
+
+}
+
+
+#projeto_ponto > img {
+    margin-top: 1em;
+    margin-left: 22%;
+    width: 291px;
+    height: 265px;
+}
+.text-projetos_futuros {
+    background-color: #fff;
+    margin-top: 12%;
+    margin-left: 19%;
+    width: 60%;
+    height: 25%;
+    text-align: center;
+    padding-top: 0.5em;
+    border: 1px solid;
+}
+.text-projetos_futuros > p{
+    padding: 0.5em;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+
+#rodape_historia{
+    background-color: #9720f2;
+    color: #fff;
+    font-size: 25px;
+    padding-top: 1.5em;
+    text-align: center;
+    width: 100%;
+    height: 3em;
+    margin-bottom: 1%;
+}
+#projeto_burguer{
+    display: flex;
+    background-color: #ff9933;
+    color: #000;
+    margin-left: 65%;
+    font-size: 3em;
+    height: 15em;
+    width: 33%;
+}
+#logo_mcbona > img {
+    margin-top: 1.5em;
+    margin-left: 21%;
+    width: 320px;
+    height: 258px;
+}
+#logo_hamb > img{
+    margin-top: 50%;
+    margin-left: 13.5%;
+    width: 313px;
+    height: 247px;
+}
+#meusprojetos > h2{
+    color: #fff;
+    background-color: #9720f2;
+    text-align: center;
+    padding: 1em;
+    width: auto;
+}
+#img_mcbonalds > img{
+    width: 100%;
+    height: 51em;
+    margin-left: 4.5%;
+}
+.conteudo_projetos{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo_onurb > img{
+    margin-top: 0%;
+    margin-left: 7.5%;
+    width: 271px;
+    height: 247px;
+}
+.logo_onurb > p{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 1em;
+    font-weight: bold;
+
+}
+#img_ponto > img{
+    width: 100%;
+    height: 51em;
+    margin-left: -4.5%;
+}
+#rodape_projetos{
+    background-color: #9720f2;
+    width: auto;
+    height: 4em;
+    margin-bottom: 1%;
+}
+.meus_projetos{
+    width: 36%;
+    height: 51em;
+
+}
+#habilidades > h2{
+    color: #fff;
+    background-color: #9720f2;
+    text-align: center;
+    padding: 1em;
+    width: auto;
+}
+#text_habilidades{
+    width: 38%;
+    height: 37em;
+    text-align: center;
+    padding-top: 3em;
+    font-size: 21px;
+    background-color: #000;
+    
+    
+}
+#hab{
+    display: flex;
+}
+#text_habilidades > p{
+    color: #fff;
+    margin-top: 7em;
+}
+#container{
+    margin: auto;
+}
+#container > img {
+    width: 271px;
+    height: 247px;
+}
+#container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+#container2 > img {
+    width: 495px;
+    height: 296px;
+}
+#rodape_habilidades{
+    background-color: #9720f2;
+    width: auto;
+    height: 4em;
+    margin-bottom: 1%;
+}
+#mostrarmais > h2{
+    color: #fff;
+    background-color: #9720f2;
+    text-align: center;
+    padding: 1em;
+    width: auto;
+}
+#montanha{
+    text-align: center;
+    display: block;
+    width: 100%;
+    background: url(../img/1.jpg) no-repeat center transparent;
+   background-size: cover;
+    height: 39em;
+    display: flex;
+}
+#montanha > img{
+    width: 257px;
+    height: 227px;
+    margin: auto;
+}
+#rodape_mais{
+    background-color: #9720f2;
+    width: auto;
+    height: 4em;
+}
+
+#foto_redes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#foto_anonima {
+    background-color: #ff9933;
+    width: 13em;
+    height: 13em;
+    border: 1px solid;
+    margin: auto;
+}
+#foto_anonima > p{
+    color: #fff;
+    text-align: center;
+    padding-top: 3em;
+    font-size: 24px;
+    font-weight: bold
+}
+#redes_sociais{
+    background-color: #ff9933;
+    width: 30em;
+    height: 14em;
+    border: black 1px solid;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 2em;
+}
+#redes_sociais > p{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 3em;
+}
+#his_cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#historia_mais{
+    background-color: #ff9933;
+    width: 21em;
+    height: 14em;
+    border: black 1px solid;
+}
+#historia_mais > p{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    padding-top: 3em;
+}
+#contratar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #9720f2;
+    width: 21em;
+    height: 21em;
+    border: black 1px solid;;
+}
+#contratar > P {
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 0.5em;
+}
+.caixa_cadastro{
+    width: 190px;
+    height: 37px;
+    background-color: #fff;
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+.caixa_cadastro p{
+    color: #000;
+    text-align: center;
+    padding-top: 0.25em;
+    font-weight: bold;
+    font-size: 18px;
+}
