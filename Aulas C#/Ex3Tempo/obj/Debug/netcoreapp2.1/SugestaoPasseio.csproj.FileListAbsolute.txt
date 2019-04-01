@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\bin\Debug\netcoreapp2.1\SugestaoPasseio.deps.json
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\bin\Debug\netcoreapp2.1\SugestaoPasseio.runtimeconfig.json
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\bin\Debug\netcoreapp2.1\SugestaoPasseio.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\bin\Debug\netcoreapp2.1\SugestaoPasseio.dll
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\bin\Debug\netcoreapp2.1\SugestaoPasseio.pdb
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\obj\Debug\netcoreapp2.1\SugestaoPasseio.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\obj\Debug\netcoreapp2.1\SugestaoPasseio.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\obj\Debug\netcoreapp2.1\SugestaoPasseio.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\obj\Debug\netcoreapp2.1\SugestaoPasseio.AssemblyInfo.cs
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\obj\Debug\netcoreapp2.1\SugestaoPasseio.dll
+C:\Users\38940293827\Documents\Aulas C#\Ex3Tempo\obj\Debug\netcoreapp2.1\SugestaoPasseio.pdb
