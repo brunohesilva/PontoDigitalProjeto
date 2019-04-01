@@ -1,0 +1,15 @@
+C:\Users\38940293827\Documents\Aulas C#\obj\Debug\netcoreapp2.1\Aulas C#.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\Aulas C#\obj\Debug\netcoreapp2.1\Aulas C#.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\Aulas C#\obj\Debug\netcoreapp2.1\Aulas C#.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\Aulas C#\obj\Debug\netcoreapp2.1\Aulas C#.AssemblyInfo.cs
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\bin\Debug\netcoreapp2.1\Aulas C#.deps.json
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\bin\Debug\netcoreapp2.1\Aulas C#.runtimeconfig.json
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\bin\Debug\netcoreapp2.1\Aulas C#.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\bin\Debug\netcoreapp2.1\Aulas C#.dll
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\bin\Debug\netcoreapp2.1\Aulas C#.pdb
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\obj\Debug\netcoreapp2.1\Aulas C#.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\obj\Debug\netcoreapp2.1\Aulas C#.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\obj\Debug\netcoreapp2.1\Aulas C#.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\obj\Debug\netcoreapp2.1\Aulas C#.AssemblyInfo.cs
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\obj\Debug\netcoreapp2.1\Aulas C#.dll
+C:\Users\38940293827\Documents\Aulas C#\Ex2Media\obj\Debug\netcoreapp2.1\Aulas C#.pdb
