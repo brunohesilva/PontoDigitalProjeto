@@ -1,32 +1,31 @@
 ﻿using System;
 
-namespace Ex4Balada
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Você tá a fim de ir numa balada???");
-            string resposta = Console.ReadLine().ToLower();
+namespace Ex4Balada {
+    class Program {
+        static void Main (string[] args) {
 
-            if (resposta.Equals("sim"))
-            {
-                Console.WriteLine("Se tem disponibilidade para o dia e se tem idade para entrar nessa balada (18 ou mais, ou se é matinê)?");
+            Console.WriteLine ("Bem-vindo(a) ao Barrados no Baile!");
 
-                if (resposta.Equals("sim"))
-                {
-                    Console.WriteLine("Se você tem pulseira VIP ou pagou a entrada?");
-                    
+            Console.WriteLine ("Você tem idade para ir a essa balada?");
+            string respostaIdade = Console.ReadLine ();
+
+            Console.WriteLine ("Você tem disponibilidade para ir a essa pocilga?");
+            string respostaDisponibilidade = Console.ReadLine ();
+
+            if ("sim".Equals (respostaIdade, StringComparison.CurrentCultureIgnoreCase) && "sim".Equals (respostaDisponibilidade, StringComparison.CurrentCultureIgnoreCase)) {
+                Console.WriteLine ("Bora! Bora! Bora!");
+
+                Console.WriteLine ("...mas antes me diga se você PAGOU a entrada ou TEM pulseira VIP?");
+                string respostaEntrada = Console.ReadLine ();
+
+                if ("paguei".Equals (respostaEntrada, StringComparison.CurrentCultureIgnoreCase) || "tenho".Equals (respostaEntrada, StringComparison.CurrentCultureIgnoreCase)) {
+                    Console.WriteLine ("Firmeza, amizade. SEXTOOOOU!");
+                } else {
+                    Console.WriteLine ("Aí fica difícil, parça! Arruma um ou outro!");
                 }
-                else if (resposta.Equals("não"))
-                {
-                    Console.WriteLine("Só menor de idade ou não tempo, não tem prblema falsifique sua identidade em www.identidadefalsa.com.br");
-                }
+            } else {
+                Console.WriteLine ("Melhor sorte na próxima, fii!");
             }
-            else if (resposta.Equals("não"))
-            {
-                Console.WriteLine("Sem tempo irmão, faço Senai.");
             }
         }
     }
-}
