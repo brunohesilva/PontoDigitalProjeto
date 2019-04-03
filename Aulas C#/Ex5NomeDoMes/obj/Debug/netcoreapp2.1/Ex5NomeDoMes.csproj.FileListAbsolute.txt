@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\obj\Debug\netcoreapp2.1\Ex5NomeDoMes.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\obj\Debug\netcoreapp2.1\Ex5NomeDoMes.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\obj\Debug\netcoreapp2.1\Ex5NomeDoMes.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\obj\Debug\netcoreapp2.1\Ex5NomeDoMes.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\bin\Debug\netcoreapp2.1\Ex5NomeDoMes.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\bin\Debug\netcoreapp2.1\Ex5NomeDoMes.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\bin\Debug\netcoreapp2.1\Ex5NomeDoMes.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\bin\Debug\netcoreapp2.1\Ex5NomeDoMes.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\bin\Debug\netcoreapp2.1\Ex5NomeDoMes.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\obj\Debug\netcoreapp2.1\Ex5NomeDoMes.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex5NomeDoMes\obj\Debug\netcoreapp2.1\Ex5NomeDoMes.pdb

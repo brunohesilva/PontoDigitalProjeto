@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38940293827\\Documents\\Aulas C#\\ParImpar\\ParImpar.csproj",
+      "projectUniqueName": "c:\\Users\\38940293827\\Documents\\SenaiProjetos\\PontoDigitalProjeto\\Aulas C#\\ParImpar\\ParImpar.csproj",
       "projectName": "ParImpar",
-      "projectPath": "C:\\Users\\38940293827\\Documents\\Aulas C#\\ParImpar\\ParImpar.csproj",
+      "projectPath": "c:\\Users\\38940293827\\Documents\\SenaiProjetos\\PontoDigitalProjeto\\Aulas C#\\ParImpar\\ParImpar.csproj",
       "packagesPath": "C:\\Users\\38940293827\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38940293827\\Documents\\Aulas C#\\ParImpar\\obj\\",
+      "outputPath": "c:\\Users\\38940293827\\Documents\\SenaiProjetos\\PontoDigitalProjeto\\Aulas C#\\ParImpar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

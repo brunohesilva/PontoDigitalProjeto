@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\bin\Debug\netcoreapp2.1\Ex7Menu.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\bin\Debug\netcoreapp2.1\Ex7Menu.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\bin\Debug\netcoreapp2.1\Ex7Menu.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\bin\Debug\netcoreapp2.1\Ex7Menu.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\bin\Debug\netcoreapp2.1\Ex7Menu.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\obj\Debug\netcoreapp2.1\Ex7Menu.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\obj\Debug\netcoreapp2.1\Ex7Menu.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\obj\Debug\netcoreapp2.1\Ex7Menu.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\obj\Debug\netcoreapp2.1\Ex7Menu.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\obj\Debug\netcoreapp2.1\Ex7Menu.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex7Menu\obj\Debug\netcoreapp2.1\Ex7Menu.pdb

@@ -7,44 +7,70 @@ namespace ParImpar
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Você quer jogar um jogo?!");
-            string resposta = Console.ReadLine();
-            
-            
-            if (resposta.Equals("não")) 
-            {
-                Console.WriteLine("Você não é digno de perder");
-            }
-            else if (resposta.Equals("sim")){
-                Random r = new Random();
-                int numeroPc = r.Next(0,10);
+             int numeroMaquina = 0;
+            int numeroUsuario = 0;
 
-                Console.WriteLine("Escolha Par ou Ímpar");
-                string escolha = Console.ReadLine();
-                
-                if (escolha.Equals("Par"))
-                {
-                    if (numeroPc.Equals(numeroPc % 2 == 0))
-                    {
-                        Console.WriteLine("Sua vitória não e nada mais que minha derrota");
+            string escolhaUsuario = "";
+            string respostaUsuario = "";
+
+            Console.WriteLine ("Olá! Gostaria de jogar par ou ímpar comigo?");
+            respostaUsuario = Console.ReadLine ();
+
+            if ("sim".Equals (respostaUsuario, StringComparison.CurrentCultureIgnoreCase)) {
+                Console.WriteLine ("===================================");
+                Console.WriteLine ("= *-* Beleza! Vamos lá então! *-* =");
+                Console.WriteLine ("===================================");
+                Console.WriteLine ("Escolha um: Par ou Impar");
+
+                escolhaUsuario = Console.ReadLine ();
+
+                if ("par".Equals (escolhaUsuario, StringComparison.CurrentCultureIgnoreCase) ||
+                    "impar".Equals (escolhaUsuario, StringComparison.CurrentCultureIgnoreCase)) {
+
+                    if ("par".Equals (escolhaUsuario, StringComparison.CurrentCultureIgnoreCase)) {
+                        Console.WriteLine ("Vou de Impar, então");
+
+                    } else {
+                        Console.WriteLine ("Vou de Par, então");
                     }
-                    else 
-                    {
-                        Console.WriteLine("Parece que eu venci!!!;)");
+
+                    Console.WriteLine ("Escolha um número de 0 até 10");
+                    respostaUsuario = Console.ReadLine ();
+
+                    if (int.TryParse (respostaUsuario, out numeroUsuario) 
+                        && numeroUsuario >= 0 
+                        && numeroUsuario <= 10 ) {
+
+                        Console.WriteLine ("Você escolheu: {0}", numeroUsuario);
+                        Random r = new Random ();
+                        numeroMaquina = r.Next (0, 10);
+
+                        Console.WriteLine ("Ok! Eu escolho o {0}", numeroMaquina);
+
+                        if (((numeroUsuario + numeroMaquina) % 2 == 0  
+                                && "par".Equals (escolhaUsuario, StringComparison.CurrentCultureIgnoreCase)) 
+                                    || 
+                            ((numeroUsuario + numeroMaquina) % 2 != 0 
+                                && "impar".Equals (escolhaUsuario, StringComparison.CurrentCultureIgnoreCase))) {
+                            
+                            Console.WriteLine ("Droga, você venceu!");
+
+                        } else {
+                            Console.WriteLine ("Eu venci! Huehuebrbr!");
+                        }
+
+                    } else {
+                        Console.WriteLine ("Noob!");
                     }
+
+                } else {
+                    Console.WriteLine ("...");
                 }
-                if (escolha.Equals("Ímpar"))
-                {
-                    if (numeroPc.Equals(numeroPc % 2 == 1))
-                    {
-                        Console.WriteLine("Sua vitória não e nada mais que minha derrota");
-                    }
-                    else 
-                    {
-                        Console.WriteLine("Parece que eu venci!!!;)");
-                    }
-                }
+
+            } else {
+                Console.WriteLine ("VLW FLW");
             }
-        }
+
+      }
     }
 }

@@ -3,7 +3,7 @@
 namespace Ex4Balada {
     class Program {
         static void Main (string[] args) {
-
+        
             Console.WriteLine ("Bem-vindo(a) ao Barrados no Baile!");
 
             Console.WriteLine ("Você tem idade para ir a essa balada?");
@@ -26,6 +26,7 @@ namespace Ex4Balada {
             } else {
                 Console.WriteLine ("Melhor sorte na próxima, fii!");
             }
+
             }
         }
     }

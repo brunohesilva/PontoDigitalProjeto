@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38940293827\\Documents\\Aulas C#\\Primeiro Aplicativo\\Primeiro Aplicativo.csproj",
+      "projectUniqueName": "c:\\Users\\38940293827\\Documents\\SenaiProjetos\\PontoDigitalProjeto\\Aulas C#\\Primeiro Aplicativo\\Primeiro Aplicativo.csproj",
       "projectName": "Primeiro Aplicativo",
-      "projectPath": "C:\\Users\\38940293827\\Documents\\Aulas C#\\Primeiro Aplicativo\\Primeiro Aplicativo.csproj",
+      "projectPath": "c:\\Users\\38940293827\\Documents\\SenaiProjetos\\PontoDigitalProjeto\\Aulas C#\\Primeiro Aplicativo\\Primeiro Aplicativo.csproj",
       "packagesPath": "C:\\Users\\38940293827\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38940293827\\Documents\\Aulas C#\\Primeiro Aplicativo\\obj\\",
+      "outputPath": "c:\\Users\\38940293827\\Documents\\SenaiProjetos\\PontoDigitalProjeto\\Aulas C#\\Primeiro Aplicativo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

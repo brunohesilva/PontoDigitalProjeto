@@ -9,3 +9,14 @@ C:\Users\38940293827\Documents\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpa
 C:\Users\38940293827\Documents\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.AssemblyInfo.cs
 C:\Users\38940293827\Documents\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.dll
 C:\Users\38940293827\Documents\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.pdb

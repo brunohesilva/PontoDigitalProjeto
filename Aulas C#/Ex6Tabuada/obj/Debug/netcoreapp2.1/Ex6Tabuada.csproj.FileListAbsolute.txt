@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\bin\Debug\netcoreapp2.1\Ex6Tabuada.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\bin\Debug\netcoreapp2.1\Ex6Tabuada.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\bin\Debug\netcoreapp2.1\Ex6Tabuada.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\bin\Debug\netcoreapp2.1\Ex6Tabuada.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\bin\Debug\netcoreapp2.1\Ex6Tabuada.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\obj\Debug\netcoreapp2.1\Ex6Tabuada.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\obj\Debug\netcoreapp2.1\Ex6Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\obj\Debug\netcoreapp2.1\Ex6Tabuada.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\obj\Debug\netcoreapp2.1\Ex6Tabuada.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\obj\Debug\netcoreapp2.1\Ex6Tabuada.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\Ex6Tabuada\obj\Debug\netcoreapp2.1\Ex6Tabuada.pdb
