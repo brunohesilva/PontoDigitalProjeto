@@ -6,16 +6,10 @@ namespace ExJogo04
     {
         static void Main(string[] args)
         {
-            int idade;
-            int cont = 0;
-
-
-            for (int i = 1; i <= 10;) 
+            for (int i = 0; i <= 100; i++)
             {
-                idade = Console.WriteLine("Informe a Idade da Pessoa");
-                Console.ReadLine();  
+                System.Console.WriteLine(((i % 4 != 0)? i.ToString() : "PI"));
             }
-            
         }
     }
 }
