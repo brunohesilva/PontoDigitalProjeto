@@ -29,7 +29,7 @@ namespace Ex6Tabuada
             while(repetir){
             Console.WriteLine("Insira o número da tabuada");
             int num = int.Parse(Console.ReadLine());
-            while(cont <= 10) {
+            while (cont <= 10) {
                 Console.WriteLine(num+"x"+cont+"="+num*cont);
                 cont++;
                 }

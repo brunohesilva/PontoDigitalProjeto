@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\bin\Debug\netcoreapp2.1\ExJogo04.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\bin\Debug\netcoreapp2.1\ExJogo04.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\bin\Debug\netcoreapp2.1\ExJogo04.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\bin\Debug\netcoreapp2.1\ExJogo04.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\bin\Debug\netcoreapp2.1\ExJogo04.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\obj\Debug\netcoreapp2.1\ExJogo04.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\obj\Debug\netcoreapp2.1\ExJogo04.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\obj\Debug\netcoreapp2.1\ExJogo04.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\obj\Debug\netcoreapp2.1\ExJogo04.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\obj\Debug\netcoreapp2.1\ExJogo04.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ExJogo04\obj\Debug\netcoreapp2.1\ExJogo04.pdb
