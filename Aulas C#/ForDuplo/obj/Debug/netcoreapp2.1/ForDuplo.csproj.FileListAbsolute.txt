@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\bin\Debug\netcoreapp2.1\ForDuplo.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\bin\Debug\netcoreapp2.1\ForDuplo.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\bin\Debug\netcoreapp2.1\ForDuplo.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\bin\Debug\netcoreapp2.1\ForDuplo.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\bin\Debug\netcoreapp2.1\ForDuplo.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\obj\Debug\netcoreapp2.1\ForDuplo.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\obj\Debug\netcoreapp2.1\ForDuplo.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\obj\Debug\netcoreapp2.1\ForDuplo.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\obj\Debug\netcoreapp2.1\ForDuplo.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\obj\Debug\netcoreapp2.1\ForDuplo.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ForDuplo\obj\Debug\netcoreapp2.1\ForDuplo.pdb
