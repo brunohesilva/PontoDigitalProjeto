@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\bin\Debug\netcoreapp2.1\ArrayCaixa.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\bin\Debug\netcoreapp2.1\ArrayCaixa.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\bin\Debug\netcoreapp2.1\ArrayCaixa.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\bin\Debug\netcoreapp2.1\ArrayCaixa.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\bin\Debug\netcoreapp2.1\ArrayCaixa.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\obj\Debug\netcoreapp2.1\ArrayCaixa.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\obj\Debug\netcoreapp2.1\ArrayCaixa.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\obj\Debug\netcoreapp2.1\ArrayCaixa.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\obj\Debug\netcoreapp2.1\ArrayCaixa.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\obj\Debug\netcoreapp2.1\ArrayCaixa.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayCaixa\obj\Debug\netcoreapp2.1\ArrayCaixa.pdb

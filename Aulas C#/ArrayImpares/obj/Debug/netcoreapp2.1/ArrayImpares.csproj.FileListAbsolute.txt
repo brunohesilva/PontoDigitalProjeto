@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\bin\Debug\netcoreapp2.1\ArrayImpares.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\bin\Debug\netcoreapp2.1\ArrayImpares.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\bin\Debug\netcoreapp2.1\ArrayImpares.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\bin\Debug\netcoreapp2.1\ArrayImpares.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\bin\Debug\netcoreapp2.1\ArrayImpares.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\obj\Debug\netcoreapp2.1\ArrayImpares.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\obj\Debug\netcoreapp2.1\ArrayImpares.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\obj\Debug\netcoreapp2.1\ArrayImpares.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\obj\Debug\netcoreapp2.1\ArrayImpares.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\obj\Debug\netcoreapp2.1\ArrayImpares.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayImpares\obj\Debug\netcoreapp2.1\ArrayImpares.pdb
