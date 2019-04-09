@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\bin\Debug\netcoreapp2.1\ArrayAirLines.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\bin\Debug\netcoreapp2.1\ArrayAirLines.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\bin\Debug\netcoreapp2.1\ArrayAirLines.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\bin\Debug\netcoreapp2.1\ArrayAirLines.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\bin\Debug\netcoreapp2.1\ArrayAirLines.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\obj\Debug\netcoreapp2.1\ArrayAirLines.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\obj\Debug\netcoreapp2.1\ArrayAirLines.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\obj\Debug\netcoreapp2.1\ArrayAirLines.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\obj\Debug\netcoreapp2.1\ArrayAirLines.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\obj\Debug\netcoreapp2.1\ArrayAirLines.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\ArrayAirLines\obj\Debug\netcoreapp2.1\ArrayAirLines.pdb
