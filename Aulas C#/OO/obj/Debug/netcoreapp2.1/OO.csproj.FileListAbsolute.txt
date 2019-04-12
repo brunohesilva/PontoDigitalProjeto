@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\bin\Debug\netcoreapp2.1\OO.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\bin\Debug\netcoreapp2.1\OO.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\bin\Debug\netcoreapp2.1\OO.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\bin\Debug\netcoreapp2.1\OO.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\bin\Debug\netcoreapp2.1\OO.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\obj\Debug\netcoreapp2.1\OO.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\obj\Debug\netcoreapp2.1\OO.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\obj\Debug\netcoreapp2.1\OO.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\obj\Debug\netcoreapp2.1\OO.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\obj\Debug\netcoreapp2.1\OO.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Aulas C#\OO\obj\Debug\netcoreapp2.1\OO.pdb
