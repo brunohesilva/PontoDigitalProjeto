@@ -8,32 +8,30 @@ namespace Ex1
 
         public int numeroConta;
 
-        public double saldo { get; private set;}
+        private double saldo {get; set;}
 
         public void Depositar(double valor){
             saldo += valor;
         }
-
-        public bool Sacar(double valor){
-
-            if (saldo < valor){
+        public bool Sacar (double valor) {
+            if(valor > saldo){
                 return false;
             }else{
                 saldo -= valor;
                 return true;
             }
-
+        } //fim sacar
+        public double ExibirSaldo(){
+            return saldo;   
         }
-        
-        public bool Transferir(double valor, ContaCorrente contaDestino){
-            
+
+        public bool Trasferir(double valor, ContaCorrente contaDestino){
             if(valor > saldo){
                 return false;
             }else{
                 saldo -= valor;
-
-                    contaDestino.saldo += valor;
-                    return true;
+                contaDestino.saldo += valor;
+                return true;
             }
         }
     }

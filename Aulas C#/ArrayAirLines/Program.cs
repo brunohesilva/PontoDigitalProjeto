@@ -33,7 +33,7 @@ namespace ArrayAirLines
                         
                         break;
                     case 2:
-
+                        
                         System.Console.WriteLine ("Todos os passageiros cadastrados");
                         foreach (var passageiro in passageiros) {
                             if (passageiro != null) {

@@ -2,12 +2,9 @@ namespace SENAIzinho
 {
     public class Sala
     {
-        int numeroSala;
-
-         int capacidadeAtual;
-
-          int capacidadeTotal;
-
-           string[] alunos;
+        public int numeroSala;
+        public int capacidadeAtual;
+        public int capacidadeTotal;
+        public string[] alunos;
     }
 }
