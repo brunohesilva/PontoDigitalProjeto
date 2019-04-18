@@ -47,7 +47,7 @@ namespace SENAIzinho
                         aluno.curso = Console.ReadLine ();
 
                         // Console.WriteLine("Digite o numero da sala");
-                        // aluno.numeroSala = int.Parse(Console.ReadLine());
+                        // aluno.numeroSala = int.Parse(Console.ReadLine());    
 
                         alunos[alunosCadastrados] = aluno;
 
@@ -86,8 +86,81 @@ namespace SENAIzinho
                         Console.ReadLine ();
 
                         break;
-                        case 3:
-                            
+                    case 3:
+                        if (alunosCadastrados == 0) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ("Nenhum aluno cadastrado!");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        } else if (salasCadastradas == 0) {
+                             Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ("Nenhuma sala cadastrada");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+
+                        System.Console.WriteLine("Digite o nome do aluno");
+                        string nomeAluno = Console.ReadLine();
+                        Aluno alunoRecuperado = null;
+
+                        foreach (Aluno item in alunos)
+                        {
+                            if (item != null && nomeAluno.Equals(item.nome)) {
+                                alunoRecuperado = item;
+                                break;
+                            }
+                        }
+                        if (alunoRecuperado == null)
+
+                        {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Aluno {nomeAluno} não encontrado!");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+
+                        System.Console.WriteLine("Digite o número da sala");
+                        int numeroSala = int.Parse(Console.ReadLine());
+
+                        Sala salaRecuperada = null;
+                        foreach (Sala item in salas)
+                        {
+                            if ((item != null  && numeroSala.Equals(item.numeroSala))) {
+                                salaRecuperada = item;
+                                break;
+                            }
+                        }
+
+                        if (salaRecuperada == null)
+                        {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Sala {numeroSala} não encontrado!");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        System.Console.WriteLine (salaRecuperada.AlocarAluno(alunoRecuperado.nome));
+                        Console.ResetColor ();
+
+                        System.Console.WriteLine ("Aperte ENTER para voltar ao menu");
+                        Console.ReadLine ();
+
+                        break;
+                    case 4:
+                        
                         break;
                     case 5:
                         foreach (var item in salas) {
@@ -95,6 +168,7 @@ namespace SENAIzinho
                                 System.Console.WriteLine ("-----------------------------------------------------");
                                 System.Console.WriteLine ($"Número da sala: {item.numeroSala}");
                                 System.Console.WriteLine ($"Vagas disponíveis: {item.capacidadeAtual}");
+                                System.Console.WriteLine ($"Alunos {item.ExibirAlunos()}");
                                 System.Console.WriteLine ("-----------------------------------------------------");
                             }
                         }
@@ -114,6 +188,9 @@ namespace SENAIzinho
                         System.Console.WriteLine("Aperte ENTER para voltar ao menu principal");
                         Console.ReadLine();
 
+                        break;
+                        case 0:
+                              querSair = true;
                         break;
 
                 }
