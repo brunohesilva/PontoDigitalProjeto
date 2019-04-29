@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\bin\Debug\netcoreapp2.1\Senai.Tushi.MVC.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\bin\Debug\netcoreapp2.1\Senai.Tushi.MVC.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\bin\Debug\netcoreapp2.1\Senai.Tushi.MVC.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\bin\Debug\netcoreapp2.1\Senai.Tushi.MVC.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\bin\Debug\netcoreapp2.1\Senai.Tushi.MVC.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\obj\Debug\netcoreapp2.1\Senai.Tushi.MVC.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\obj\Debug\netcoreapp2.1\Senai.Tushi.MVC.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\obj\Debug\netcoreapp2.1\Senai.Tushi.MVC.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\obj\Debug\netcoreapp2.1\Senai.Tushi.MVC.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\obj\Debug\netcoreapp2.1\Senai.Tushi.MVC.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.Tushi.MVC\obj\Debug\netcoreapp2.1\Senai.Tushi.MVC.pdb
