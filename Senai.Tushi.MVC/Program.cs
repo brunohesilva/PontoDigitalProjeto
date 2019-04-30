@@ -28,10 +28,13 @@ namespace Senai.Tushi.MVC {
                             
                             switch (opcaoLogado){
                                 case 1:
+                                ProdutoViewController.CadastrarProduto();
                                 break;
                                 case 2:
+                                ProdutoViewController.ListarProduto();
                                 break;
                                 case 3:
+                                ProdutoViewController.BuscarPorId();
                                 break;
                                 case 9:
                                 break;
@@ -47,7 +50,6 @@ namespace Senai.Tushi.MVC {
                         break;
                     case 0:
                         break;
-
                     default:
                         Console.WriteLine ("Opção Inválida");
                         break;
