@@ -17,7 +17,7 @@ namespace Senai.Tushi.MVC.Repositorio
             return produto; 
         }
 
-         public List<ProdutoViewModel> ListarProduto(){
+        public List<ProdutoViewModel> ListarProduto(){
             return listaDeProdutos;
         }
 

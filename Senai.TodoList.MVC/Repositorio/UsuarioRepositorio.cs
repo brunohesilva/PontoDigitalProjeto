@@ -15,7 +15,7 @@ namespace Senai.TodoList.MVC.Repositorio
 
             return usuario;
         }
-
+        
         public UsuarioViewModel BuscarUsuario(string email, string senha)
 {
             foreach (var item in listaDeUsuarios)
@@ -27,6 +27,10 @@ namespace Senai.TodoList.MVC.Repositorio
 
             }
                 return null;
+        }
+
+        public List<UsuarioViewModel> Listar(){
+            return listaDeUsuarios;
         }
     }
 }

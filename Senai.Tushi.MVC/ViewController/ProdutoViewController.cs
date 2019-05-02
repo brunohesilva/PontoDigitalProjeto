@@ -7,7 +7,7 @@ namespace Senai.Tushi.MVC.ViewController
 {
     public class ProdutoViewController
     {
-         static ProdutoRepositorio produtoRepositorio = new ProdutoRepositorio();
+        static ProdutoRepositorio produtoRepositorio = new ProdutoRepositorio();
         public static void CadastrarProduto(){
             string nome, descricao, categoria;
             float preco;

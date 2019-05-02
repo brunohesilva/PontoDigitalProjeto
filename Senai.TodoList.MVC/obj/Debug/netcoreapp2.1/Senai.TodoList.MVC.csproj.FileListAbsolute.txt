@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\bin\Debug\netcoreapp2.1\Senai.TodoList.MVC.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\bin\Debug\netcoreapp2.1\Senai.TodoList.MVC.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\bin\Debug\netcoreapp2.1\Senai.TodoList.MVC.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\bin\Debug\netcoreapp2.1\Senai.TodoList.MVC.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\bin\Debug\netcoreapp2.1\Senai.TodoList.MVC.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\obj\Debug\netcoreapp2.1\Senai.TodoList.MVC.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\obj\Debug\netcoreapp2.1\Senai.TodoList.MVC.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\obj\Debug\netcoreapp2.1\Senai.TodoList.MVC.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\obj\Debug\netcoreapp2.1\Senai.TodoList.MVC.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\obj\Debug\netcoreapp2.1\Senai.TodoList.MVC.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\Senai.TodoList.MVC\obj\Debug\netcoreapp2.1\Senai.TodoList.MVC.pdb

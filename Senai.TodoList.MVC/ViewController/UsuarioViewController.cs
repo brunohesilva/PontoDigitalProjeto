@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Senai.TodoList.MVC.Repositorio;
 using Senai.TodoList.MVC.Utils;
 using Senai.TodoList.MVC.ViewModel;
@@ -7,7 +8,7 @@ namespace Senai.TodoList.MVC.ViewController
 {
     public class UsuarioViewController
     {
-         static UsuarioRepositorio usuarioRepositorio = new UsuarioRepositorio();
+        static UsuarioRepositorio usuarioRepositorio = new UsuarioRepositorio();
         public static void CadastrarUsuario(){
             string nome, email, senha, confirmaSenha, tipo;
 
@@ -84,6 +85,15 @@ namespace Senai.TodoList.MVC.ViewController
                 Console.WriteLine("Email ou senha inválida");
                 return null;
             }
+        }
+
+         public static void ListarUsuario()
+        {
+           List<UsuarioViewModel> listaDeUsuarios = usuarioRepositorio.Listar();
+           foreach (var item in listaDeUsuarios)
+           {
+               Console.WriteLine($"Id: {item.Id} - Nome: {item.Nome} - Email: {item.Email} - Senha: {item.Senha} - Data de Criação: {item.DataCriacao} - Tipo: {item.TipoUA}");
+           }
         }
     }
 }
