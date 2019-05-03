@@ -31,10 +31,10 @@ namespace Senai.Tushi.MVC {
                                 ProdutoViewController.CadastrarProduto();
                                 break;
                                 case 2:
-                                ProdutoViewController.ListarProduto();
+                                ProdutoViewController.ListarProdutos();
                                 break;
                                 case 3:
-                                ProdutoViewController.BuscarPorId();
+                                // ProdutoViewController.BuscarPorId();
                                 break;
                                 case 9:
                                 break;

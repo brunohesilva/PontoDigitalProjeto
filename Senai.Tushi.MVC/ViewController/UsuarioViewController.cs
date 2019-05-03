@@ -52,7 +52,6 @@ namespace Senai.Tushi.MVC.ViewController
 
 
             usuarioRepositorio.Inserir(usuarioViewModel);
-            
             Console.WriteLine("Cadastro efetuado com sucesso!");
 
         }
