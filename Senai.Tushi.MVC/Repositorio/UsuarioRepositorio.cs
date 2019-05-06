@@ -8,7 +8,7 @@ namespace Senai.Tushi.MVC.Repositorio
     public class UsuarioRepositorio
     {
         // public List<UsuarioViewModel> listaDeUsuarios = new List<UsuarioViewModel>();
-
+// 
         /// <summary>Método responsavel por armazenar um usário</summary>
         public UsuarioViewModel Inserir(UsuarioViewModel usuario){
             int contador = 0;
