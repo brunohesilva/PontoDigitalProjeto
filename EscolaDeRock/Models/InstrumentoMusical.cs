@@ -1,14 +1,7 @@
-using System;
-namespace EscolaDeRock.Models
-{
-    public class InstrumentoMusical
-    {
-        string[] notas = {"Do", "Ré", "Mi", "Fá", "Sol", "Lá", "Si"};
+namespace EscolaDeRock.Models {
+    public class InstrumentoMusical {
+        public void TocarMsuica () {
 
-        protected string TocarMusica() {
-            return notas[new Random().Next(notas.Length - 1)];
         }
-
-
     }
 }
