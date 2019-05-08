@@ -48,7 +48,7 @@ namespace EscolaDeRock {
                         } else {
                             System.Console.WriteLine (opcoesFormacao[i].Replace (i.ToString (), titulo));
                         }
-                    }
+                    } 
 
                     var tecla = Console.ReadKey (true).Key;
 
@@ -71,6 +71,7 @@ namespace EscolaDeRock {
 
                 switch (opcaoFormacaoSelecionada) {
                     case 0:
+                    vagas = 2;
                         do {
                             ExibirMenuDeInstrumentos ();
                             System.Console.WriteLine ("Digite o código do instrumento para a categoria Harmonia");
@@ -102,7 +103,6 @@ namespace EscolaDeRock {
                             if (vagas == 0){
                                 bandaEstaCompleta = true;
                             }
-
                         } while (!bandaEstaCompleta);
                         break;
                     case 1:

@@ -1,0 +1,11 @@
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\bin\Debug\netcoreapp2.1\AuxiliarDeReciclagem.deps.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\bin\Debug\netcoreapp2.1\AuxiliarDeReciclagem.runtimeconfig.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\bin\Debug\netcoreapp2.1\AuxiliarDeReciclagem.runtimeconfig.dev.json
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\bin\Debug\netcoreapp2.1\AuxiliarDeReciclagem.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\bin\Debug\netcoreapp2.1\AuxiliarDeReciclagem.pdb
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\obj\Debug\netcoreapp2.1\AuxiliarDeReciclagem.csprojAssemblyReference.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\obj\Debug\netcoreapp2.1\AuxiliarDeReciclagem.csproj.CoreCompileInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\obj\Debug\netcoreapp2.1\AuxiliarDeReciclagem.AssemblyInfoInputs.cache
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\obj\Debug\netcoreapp2.1\AuxiliarDeReciclagem.AssemblyInfo.cs
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\obj\Debug\netcoreapp2.1\AuxiliarDeReciclagem.dll
+C:\Users\38940293827\Documents\SenaiProjetos\PontoDigitalProjeto\AuxiliarDeReciclagem\obj\Debug\netcoreapp2.1\AuxiliarDeReciclagem.pdb
