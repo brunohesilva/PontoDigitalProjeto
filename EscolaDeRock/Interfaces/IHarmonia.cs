@@ -1,5 +1,7 @@
-namespace EscolaDeRock.Interfaces {
-    public interface IHarmonia {
-        bool TocarAcordes ();
+namespace EscolaDeRock.Interfaces
+{
+    public interface IHarmonia
+    {
+        bool TocarAcordes();
     }
 }

@@ -71,27 +71,78 @@ namespace AuxiliarDeReciclagem {
                             int codigo = int.Parse (Console.ReadLine ());
                             var lixo = Candidatos.Lixos[codigo];
 
-                            switch (codigo) {
-                                case 1:
-                                    
+                            Type interfaceEncontrada  = lixo.GetType ().GetInterface ("IAmarelo");
 
-                                    
-                                    break;
-                                case 2:
-                                    break;
-                                case 3:
-                                    break;
-                                case 4:
-                                    break;
-                                case 5:
-                                    break;
-                                case 6:
-                                    break;
+                            if (interfaceEncontrada != null){
+                                ColocarNoAmarelo ((IAmarelo) lixo);
+                            } else {
+                               continue; 
                             }
+
+                            System.Console.WriteLine ("Digite o código do Lixo para a saber a sua lixeira");
+                            codigo = int.Parse (Console.ReadLine ());
+                            lixo = Candidatos.Lixos[codigo];
+
+                            interfaceEncontrada  = lixo.GetType ().GetInterface ("IAzul");
+
+                            if (interfaceEncontrada != null){
+                                ColocarNoAzul ((IAzul) lixo);
+                            } else {
+                               continue; 
+                            }
+
+                            System.Console.WriteLine ("Digite o código do Lixo para a saber a sua lixeira");
+                            codigo = int.Parse (Console.ReadLine ());
+                            lixo = Candidatos.Lixos[codigo];
+
+                            interfaceEncontrada  = lixo.GetType ().GetInterface ("ICinza");
+
+                            if (interfaceEncontrada != null){
+                                ColocarNoCinza ((ICinza) lixo);
+                            } else {
+                               continue; 
+                            }
+
+                            System.Console.WriteLine ("Digite o código do Lixo para a saber a sua lixeira");
+                            codigo = int.Parse (Console.ReadLine ());
+                            lixo = Candidatos.Lixos[codigo];
+
+                            interfaceEncontrada  = lixo.GetType ().GetInterface ("IPreto");
+
+                            if (interfaceEncontrada != null){
+                                ColocarNoPreto ((IPreto) lixo);
+                            } else {
+                               continue; 
+                            }
+
                         } while (!querSair);
                         break;
                 }
             } while (!querSair);
+        }
+
+        public static bool ColocarNoPreto(IPreto lixo)
+        {
+            System.Console.WriteLine ("Lixo Orgânico deve ser mandando para a composteira ou é reprentado pela lixeira Preta");
+            return true;
+        }
+
+        public static bool ColocarNoCinza(ICinza lixo)
+        {
+            System.Console.WriteLine ("Lixos não definidos são jogados na Lixeira Cinza");
+            return true;
+        }
+
+        public static bool ColocarNoAzul(IAzul lixo)
+        {
+           System.Console.WriteLine ("Papel são jogados na Azul");
+            return true;
+        }
+
+        public static bool ColocarNoAmarelo(IAmarelo lixo)
+        {
+            System.Console.WriteLine ("Lixos Metalicos são jogados na Lixeira Amarela");
+            return true;
         }
 
         public static string TratarTituloMenu (string titulo) {

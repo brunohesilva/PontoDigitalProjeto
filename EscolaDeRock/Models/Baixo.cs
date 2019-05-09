@@ -1,11 +1,12 @@
 using EscolaDeRock.Interfaces;
 
-namespace EscolaDeRock.Models {
+namespace EscolaDeRock.Models
+{
     public class Baixo : InstrumentoMusical, IPercussao, IHarmonia
     {
         public bool ManterRitmo()
         {
-            System.Console.WriteLine("Mantendo ritmo do Baixo");
+           System.Console.WriteLine("Mantendo ritmo do Baixo");
             return true;
         }
 
@@ -14,5 +15,6 @@ namespace EscolaDeRock.Models {
             System.Console.WriteLine("Tocando acordes do Baixo");
             return true;
         }
+
     }
 }
